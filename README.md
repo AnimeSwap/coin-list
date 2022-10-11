@@ -13,7 +13,7 @@ Coin Info example:
   decimals: 8,
   symbol: 'APT',
   name: 'Aptos',
-  logoURL: 'https://raw.githubusercontent.com/AnimeSwap/coin-list/main/icons/APT.svg',
+  logoURL: 'https://coinlist.animeswap.org/icons/APT.svg',
   projectURL: 'https://aptoslabs.com/',
 }
 ```
@@ -24,7 +24,7 @@ Coin Info example:
   decimals: 8,
   symbol: 'USDT',
   name: 'Tether USD',
-  logoURL: 'https://raw.githubusercontent.com/AnimeSwap/coin-list/main/icons/USDT.webp',
+  logoURL: 'https://coinlist.animeswap.org/icons/USDT.webp',
   extensions: {
     stableUSD: true,
   },
