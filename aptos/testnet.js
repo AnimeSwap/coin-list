@@ -39,4 +39,11 @@
     logoURL: ['https://coinlist.animeswap.org/icons/MOVE.svg'],
     projectURL: 'https://bluemove.net/',
   },
+  {
+    address: '0x98a10e726d2dd19125dfdace18b156125bf6caaa17b3595f4a8cf5b63f898b4d::celer_coin_manager::UsdcCoin',
+    decimals: 8,
+    symbol: 'ceUSDC',
+    name: 'Celer USD Coin',
+    logoURL: ['https://coinlist.animeswap.org/icons/USDC.webp'],
+  },
 ]
