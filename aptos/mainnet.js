@@ -44,6 +44,13 @@
     logoURL: ['https://coinlist.animeswap.org/icons/WETH.png'],
   },
   {
+    address: '0xdd89c0e695df0692205912fb69fc290418bed0dbe6e4573d744a6d5e6bab6c13::coin::T',
+    decimals: 8,
+    symbol: 'SOL',
+    name: 'Wormhole Solana',
+    logoURL: ['https://coinlist.animeswap.org/icons/SOL.svg'],
+  },
+  {
     address: '0x8d87a65ba30e09357fa2edea2c80dbac296e5dec2b18287113500b902942929d::celer_coin_manager::UsdcCoin',
     decimals: 6,
     symbol: 'USDC',
