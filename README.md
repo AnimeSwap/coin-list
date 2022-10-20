@@ -2,7 +2,7 @@
 
 1. fork repo
 2. append coin info to chain `.js` file (such as `aptos/devnet.js`)
-3. add icon to `icons` folder
+3. add icon to `icons` folder, `svg` format, or `webp` `png` size in range `48x48` to `64x64` (no too large)
 4. Pull Request
 
 Coin Info example:
