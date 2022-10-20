@@ -16,6 +16,22 @@
     projectURL: 'https://tortuga.finance/',
   },
   {
+    address: '0xd11107bdf0d6d7040c6c0bfbdecb6545191fdf13e8d8d259952f53e1713f61b5::staked_coin::StakedAptos',
+    decimals: 8,
+    symbol: 'stAPT',
+    name: 'Ditto Staked Aptos',
+    logoURL: ['https://coinlist.animeswap.org/icons/DittoStakedAptos.svg'],
+    projectURL: 'https://www.dittofinance.io/',
+  },
+  {
+    address: '0x1000000fa32d122c18a6a31c009ce5e71674f22d06a581bb0a15575e6addadcc::usda::USDA',
+    decimals: 6,
+    symbol: 'USDA',
+    name: 'Argo USD',
+    logoURL: ['https://coinlist.animeswap.org/icons/USDA.svg'],
+    projectURL: 'https://argo.fi/',
+  },
+  {
     address: '0x5e156f1207d0ebfa19a9eeff00d62a282278fb8719f4fab3a586a0a2c0fffbea::coin::T',
     decimals: 6,
     symbol: 'whUSDC',
