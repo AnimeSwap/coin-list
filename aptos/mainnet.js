@@ -127,4 +127,11 @@
     name: 'Dog coin',
     logoURL: ['https://coinlist.animeswap.org/icons/Dog.png'],
   },
+  {
+    address: '0xe59b2c6f65ad3b4674168cddb5e6808714401439942961919604b2334f064da5::anime::SaberCoin',
+    decimals: 6,
+    symbol: 'Saber',
+    name: 'Saber coin',
+    logoURL: ['https://coinlist.animeswap.org/icons/Saber.png'],
+  },
 ]
