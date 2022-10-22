@@ -24,6 +24,14 @@
     projectURL: 'https://www.dittofinance.io/',
   },
   {
+    address: '0x881ac202b1f1e6ad4efcff7a1d0579411533f2502417a19211cfc49751ddb5f4::coin::MOJO',
+    decimals: 8,
+    symbol: 'MOJO',
+    name: 'Mojito',
+    logoURL: ['https://coinlist.animeswap.org/icons/MOJO.svg'],
+    projectURL: 'https://www.mojito.markets/',
+  },
+  {
     address: '0x1000000fa32d122c18a6a31c009ce5e71674f22d06a581bb0a15575e6addadcc::usda::USDA',
     decimals: 6,
     symbol: 'USDA',
