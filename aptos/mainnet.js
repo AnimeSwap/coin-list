@@ -32,6 +32,14 @@
     projectURL: 'https://www.mojito.markets/',
   },
   {
+    address: '0x62522289446eb966a8f5ff90fcb5c123f4560a7c5a0d7a9ae91ddcd8e5a66a07::app::APP',
+    decimals: 8,
+    symbol: 'APP',
+    name: 'AptosPad',
+    logoURL: ['https://coinlist.animeswap.org/icons/APP.svg'],
+    projectURL: 'https://aptospad.space/',
+  },
+  {
     address: '0x1000000fa32d122c18a6a31c009ce5e71674f22d06a581bb0a15575e6addadcc::usda::USDA',
     decimals: 6,
     symbol: 'USDA',
