@@ -25,13 +25,6 @@
     logoURL: 'https://coinlist.animeswap.org/icons/BTC.webp',
   },
   {
-    address: '0x3ebeee719166f9982331dd216280703b68da432b14ab19cfbe519e0b50cf7c5f::koiz_coin::KoizCoin',
-    decimals: 6,
-    symbol: 'KOIZ',
-    name: 'Koiz Coin',
-    logoURL: 'https://coinlist.animeswap.org/icons/KOIZ.png',
-  },
-  {
     address: '0xfa8c09437aa00eef18849eb9bfabf2be0dac73f03da91f46218cd1647278931b::staked_aptos_coin::StakedAptosCoin',
     decimals: 8,
     symbol: 'tAPT',
