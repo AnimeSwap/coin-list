@@ -166,4 +166,11 @@
     name: 'Saber coin',
     logoURL: ['https://coinlist.animeswap.org/icons/Saber.png'],
   },
+  {
+    address: '0x5c738a5dfa343bee927c39ebe85b0ceb95fdb5ee5b323c95559614f5a77c47cf::Aptoge::Aptoge',
+    decimals: 6,
+    symbol: 'APTOGE',
+    name: 'Aptoge',
+    logoURL: ['https://coinlist.animeswap.org/icons/APTOGE.svg'],
+  },
 ]

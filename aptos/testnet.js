@@ -35,7 +35,7 @@
     address: '0x3ebeee719166f9982331dd216280703b68da432b14ab19cfbe519e0b50cf7c5f::koiz_coin::KoizCoin',
     decimals: 6,
     symbol: 'KOIZ',
-    name: 'Koiz Coin',
+    name: 'Koizumi Coin',
     logoURL: 'https://coinlist.animeswap.org/icons/KOIZ.png',
   },
   {
