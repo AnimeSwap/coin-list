@@ -167,6 +167,13 @@
     logoURL: ['https://coinlist.animeswap.org/icons/Saber.png'],
   },
   {
+    address: '0x69c1b21fc28610043a57412568fd28d4199c0f57f90b1af8f687ec7fcc4ddd46::apetos_coin::ApetosCoin',
+    decimals: 8,
+    symbol: 'APETOS',
+    name: 'Apetos Coin',
+    logoURL: ['https://coinlist.animeswap.org/icons/APETOS.webp'],
+  },
+  {
     address: '0x5c738a5dfa343bee927c39ebe85b0ceb95fdb5ee5b323c95559614f5a77c47cf::Aptoge::Aptoge',
     decimals: 6,
     symbol: 'APTOGE',
