@@ -40,11 +40,11 @@
     logoURL: 'https://coinlist.animeswap.org/icons/tAPT.svg',
   },
   {
-    address: '0x3ebeee719166f9982331dd216280703b68da432b14ab19cfbe519e0b50cf7c5f::koiz_coin::KoizCoin',
+    address: '0x4a20134c25f301ba6fc6044bb9a678a4542ddd8d187670cf27d0d2254d32d0f5::koiz_coin::KoizCoin',
     decimals: 6,
     symbol: 'KOIZ',
     name: 'Koizumi Coin',
-    logoURL: 'https://coinlist.animeswap.org/icons/KOIZ.png',
+    logoURL: ['https://coinlist.animeswap.org/icons/KOIZ.png'],
   },
   {
     address: '0xe4497a32bf4a9fd5601b27661aa0b933a923191bf403bd08669ab2468d43b379::move_coin::MoveCoin',

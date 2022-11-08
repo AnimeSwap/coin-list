@@ -32,14 +32,6 @@
     projectURL: 'https://www.mojito.markets/',
   },
   {
-    address: '0x62522289446eb966a8f5ff90fcb5c123f4560a7c5a0d7a9ae91ddcd8e5a66a07::app::APP',
-    decimals: 8,
-    symbol: 'APP',
-    name: 'AptosPad',
-    logoURL: ['https://coinlist.animeswap.org/icons/APP.svg'],
-    projectURL: 'https://aptospad.space/',
-  },
-  {
     address: '0x1000000fa32d122c18a6a31c009ce5e71674f22d06a581bb0a15575e6addadcc::usda::USDA',
     decimals: 6,
     symbol: 'USDA',
@@ -151,27 +143,6 @@
     symbol: 'WETH',
     name: 'LayerZero Wrapped Ethereum',
     logoURL: ['https://coinlist.animeswap.org/icons/WETH.png'],
-  },
-  {
-    address: '0xa879605c9d510ea29059c64cf0d2ebd540e889896039fc5876d4e6906dc0fc1c::Dog_coin::Dog',
-    decimals: 6,
-    symbol: 'Dog',
-    name: 'Dog coin',
-    logoURL: ['https://coinlist.animeswap.org/icons/Dog.png'],
-  },
-  {
-    address: '0xe59b2c6f65ad3b4674168cddb5e6808714401439942961919604b2334f064da5::anime::SaberCoin',
-    decimals: 6,
-    symbol: 'Saber',
-    name: 'Saber coin',
-    logoURL: ['https://coinlist.animeswap.org/icons/Saber.png'],
-  },
-  {
-    address: '0x69c1b21fc28610043a57412568fd28d4199c0f57f90b1af8f687ec7fcc4ddd46::apetos_coin::ApetosCoin',
-    decimals: 8,
-    symbol: 'APETOS',
-    name: 'Apetos Coin',
-    logoURL: ['https://coinlist.animeswap.org/icons/APETOS.webp'],
   },
   {
     address: '0x5c738a5dfa343bee927c39ebe85b0ceb95fdb5ee5b323c95559614f5a77c47cf::Aptoge::Aptoge',
