@@ -8,6 +8,14 @@
     projectURL: 'https://aptoslabs.com/',
   },
   {
+    address: '0x16fe2df00ea7dde4a63409201f7f4e536bde7bb7335526a35d05111e68aa322c::AnimeCoin::ANI',
+    decimals: 8,
+    symbol: 'ANI',
+    name: 'AnimeSwap Coin',
+    logoURL: ['https://coinlist.animeswap.org/icons/ANI.png'],
+    projectURL: 'http://animeswap.org/',
+  },
+  {
     address: '0x84d7aeef42d38a5ffc3ccef853e1b82e4958659d16a7de736a29c55fbbeb0114::staked_aptos_coin::StakedAptosCoin',
     decimals: 8,
     symbol: 'tAPT',
