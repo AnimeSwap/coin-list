@@ -159,4 +159,19 @@
     name: 'Aptoge',
     logoURL: ['https://coinlist.animeswap.org/icons/APTOGE.svg'],
   },
+  {
+    address: '0x5c738a5dfa343bee927c39ebe85b0ceb95fdb5ee5b323c95559614f5a77c47cf::Aptoge::Aptoge',
+    decimals: 6,
+    symbol: 'APTOGE',
+    name: 'Aptoge',
+    logoURL: ['https://coinlist.animeswap.org/icons/APTOGE.svg'],
+  },
+  {
+    address: '0xe9c192ff55cffab3963c695cff6dbf9dad6aff2bb5ac19a6415cad26a81860d9::mee_coin::MeeCoin',
+    decimals: 6,
+    symbol: 'MEE',
+    name: 'Meeiro',
+    logoURL: ['https://coinlist.animeswap.org/icons/MEE.svg'],
+    projectURL: 'https://meeiro.xyz',
+  },
 ]
