@@ -174,4 +174,12 @@
     logoURL: ['https://coinlist.animeswap.org/icons/MEE.svg'],
     projectURL: 'https://meeiro.xyz',
   },
+  {
+    address: '0x84edd115c901709ef28f3cb66a82264ba91bfd24789500b6fd34ab9e8888e272::coin::DLC',
+    decimals: 8,
+    symbol: 'DLC',
+    name: 'Doglaika Coin',
+    logoURL: ['https://coinlist.animeswap.org/icons/DLC.png'],
+    projectURL: 'https://doglaikacoin.xyz',
+  },
 ]
