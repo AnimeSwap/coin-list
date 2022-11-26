@@ -182,6 +182,14 @@
     logoURL: ['https://coinlist.animeswap.org/icons/DLC.png'],
     projectURL: 'https://doglaikacoin.xyz',
   },
+{
+    address: '0x8b633e663f6c78177f4cfe5761395cf9f78fd18ab81d456ee58a5d03e9af93c1::proton_ba3::PROTON_49D',
+    decimals: 6,
+    symbol: 'CUCHI',
+    name: 'CUTECHICKS',
+    logoURL: ['https://coinlist.animeswap.org/icons/CUCHI.png'],
+    projectURL: 'http://www.cutechicks.xyz/',
+  },
   {
     address: '0x777821c78442e17d82c3d7a371f42de7189e4248e529fe6eee6bca40ddbb::apcoin::ApCoin',
     decimals: 8,
