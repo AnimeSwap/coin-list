@@ -206,4 +206,12 @@
     logoURL: ['https://coinlist.animeswap.org/icons/APSO.png'],
     projectURL: 'https://apsocoin.com/',
   },
+  {
+    address: '0x7c0322595a73b3fc53bb166f5783470afeb1ed9f46d1176db62139991505dc61::abel_coin::AbelCoin',
+    decimals: 8,
+    symbol: 'ABEL',
+    name: 'Abel Coin',
+    logoURL: ['https://coinlist.animeswap.org/icons/ABEL.svg'],
+    projectURL: 'https://www.abelfinance.xyz/',
+  },
 ]
