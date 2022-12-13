@@ -222,4 +222,20 @@
     logoURL: ['https://coinlist.animeswap.org/icons/DTO.svg'],
     projectURL: 'https://www.dittofinance.io/',
   },
+  {
+    address: '0x159df6b7689437016108a019fd5bef736bac692b6d4a1f10c941f6fbb9a74ca6::oft::CakeOFT',
+    decimals: 8,
+    symbol: 'CAKE',
+    name: 'PancakeSwap Token',
+    logoURL: ['https://coinlist.animeswap.org/icons/CAKE.svg'],
+    projectURL: 'https://pancakeswap.finance/',
+  },
+  {
+    address: '0x389dbbc6884a1d5b1ab4e1df2913a8c1b01251e50aed377554372b2842c5e3ef::EONcoin::EONCoin',
+    decimals: 8,
+    symbol: 'EON',
+    name: 'EON',
+    logoURL: ['https://coinlist.animeswap.org/icons/EON.svg'],
+    projectURL: 'https://eonlabz.com/',
+  },
 ]
