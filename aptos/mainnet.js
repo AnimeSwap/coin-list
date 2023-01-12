@@ -238,4 +238,12 @@
     logoURL: ['https://coinlist.animeswap.org/icons/EON.svg'],
     projectURL: 'https://eonlabz.com/',
   },
+  {
+    address: '0xd0b4efb4be7c3508d9a26a9b5405cf9f860d0b9e5fe2f498b90e68b8d2cedd3e::aptos_launch_token::AptosLaunchToken',
+    decimals: 8,
+    symbol: 'ALT',
+    name: 'ALT',
+    logoURL: ['https://coinlist.animeswap.org/icons/Aptoslaunchlogob.svg'],
+    projectURL: 'https://aptoslaunch.io/',
+  },
 ]
