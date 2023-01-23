@@ -246,4 +246,12 @@
     logoURL: ['https://coinlist.animeswap.org/icons/Aptoslaunchlogob.svg'],
     projectURL: 'https://aptoslaunch.io/',
   },
+  {
+    address: '0x7bdeaba6f037caf06bb5b2d57df9ee03a07e2a9df45b338ef3deb44d16c01d10::spring_coin::Spring_Coin',
+    decimals: 9,
+    symbol: 'SPRING',
+    name: 'SPRING',
+    logoURL: ['https://coinlist.animeswap.org/icons/SPRING.webp'],
+    projectURL: 'https://springers.co.in/',
+  },
 ]
