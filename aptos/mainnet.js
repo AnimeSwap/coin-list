@@ -259,7 +259,7 @@
     decimals: 6,
     symbol: 'BOFA',
     name: 'Bofa Chiku',
-    logoURL: ['https://raw.githubusercontent.com/bigchickendefi/coin-list/main/icons/BOFA.png'],
+    logoURL: ['https://coinlist.animeswap.org/icons/BOFA.png'],
     projectURL: 'https://bofachiku.com/',
   },
 ]
