@@ -254,4 +254,12 @@
     logoURL: ['https://coinlist.animeswap.org/icons/SPRING.webp'],
     projectURL: 'https://springers.co.in/',
   },
+  {
+    address: '0xd1fe830dd863890ead995cbed2e1584da1558df1de184f31c8d0adf95fe19bc::proton_d69::PROTON_75C',
+    decimals: 6,
+    symbol: 'BOFA',
+    name: 'Bofa Chiku',
+    logoURL: ['https://raw.githubusercontent.com/bigchickendefi/coin-list/main/icons/BOFA.png'],
+    projectURL: 'https://bofachiku.com/',
+  },
 ]
