@@ -179,7 +179,7 @@
     decimals: 8,
     symbol: 'DLC',
     name: 'Doglaika Coin',
-    logoURL: ['https://coinlist.animeswap.org/icons/DLC.png'],
+    logoURL: ['https://coinlist.animeswap.org/icons/DLC.svg'],
     projectURL: 'https://doglaikacoin.xyz',
   },
   {
