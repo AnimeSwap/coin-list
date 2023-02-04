@@ -262,4 +262,20 @@
     logoURL: ['https://coinlist.animeswap.org/icons/BOFA.png'],
     projectURL: 'https://bofachiku.com/',
   },
+  {
+    address: '0x5a1e84cdd217034d764abb91bf20aa0536c5a8c900831a37b393fe3af98c3f55::thepeoplecoin::The_People',
+    decimals: 6,
+    symbol: 'People',
+    name: 'The People',
+    logoURL: ['https://coinlist.animeswap.org/icons/People.png'],
+    projectURL: 'https://thepeopleapt.xyz/',
+  },
+  {
+    address: '0x5c738a5dfa343bee927c39ebe85b0ceb95fdb5ee5b323c95559614f5a77c47cf::AptSwap::AptSwapGovernance',
+    decimals: 8,
+    symbol: 'APTSWAP',
+    name: 'AptSwap Governance Token',
+    logoURL: ['https://coinlist.animeswap.org/icons/AptSwap.svg'],
+    projectURL: 'http://aptswap.io',
+  },
 ]
