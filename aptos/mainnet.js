@@ -278,4 +278,12 @@
     logoURL: ['https://coinlist.animeswap.org/icons/AptSwap.svg'],
     projectURL: 'http://aptswap.io',
   },
+  {
+    address: '0x27fafcc4e39daac97556af8a803dbb52bcb03f0821898dc845ac54225b9793eb::move_coin::MoveCoin',
+    decimals: 8,
+    symbol: 'MOVE',
+    name: 'BlueMove',
+    logoURL: ['https://coinlist.animeswap.org/icons/MOVE.svg'],
+    projectURL: 'https://bluemove.net/',
+  },
 ]
