@@ -286,4 +286,12 @@
     logoURL: ['https://coinlist.animeswap.org/icons/MOVE.svg'],
     projectURL: 'https://bluemove.net/',
   },
+  {
+    address: '0x25a64579760a4c64be0d692327786a6375ec80740152851490cfd0b53604cf95::coin::ETERN',
+    decimals: 8,
+    symbol: 'ETERN',
+    name: 'Eternal Token',
+    logoURL: ['https://coinlist.animeswap.org/icons/ETERN.svg'],
+    projectURL: 'https://eternalfinance.io',
+  },
 ]
