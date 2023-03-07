@@ -294,4 +294,12 @@
     logoURL: ['https://coinlist.animeswap.org/icons/ETERN.svg'],
     projectURL: 'https://eternalfinance.io',
   },
+  {
+    address: '0x27975005fd8b836a905dc7f81c51f89e76091a4d0c4d694265f6eae0c05cb400::proton_a5d::PROTON_E54',
+    decimals: 6,
+    symbol: 'ALI',
+    name: 'Eternal Token',
+    logoURL: ['https://coinlist.animeswap.org/icons/ALI.svg'],
+    projectURL: 'https://twitter.com/AlpacaINU',
+  },
 ]
