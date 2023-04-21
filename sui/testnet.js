@@ -13,7 +13,7 @@
     symbol: 'USDC',
     name: 'USDC',
     logoURL: ['https://coinlist.animeswap.org/icons/USDC.webp'],
-    projectURL: 'https://sui.io/',
+    projectURL: 'https://app.animeswap.org/',
   },
   {
     address: '0x702a609dc22a429a14618c86147e99c711b00d15653083fe17cf16861cd3b97b::usdt::USDT',
@@ -21,6 +21,6 @@
     symbol: 'USDT',
     name: 'USDT',
     logoURL: ['https://coinlist.animeswap.org/icons/USDT.webp'],
-    projectURL: 'https://sui.io/',
+    projectURL: 'https://app.animeswap.org/',
   },
 ]
