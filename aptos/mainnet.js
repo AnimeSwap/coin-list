@@ -302,4 +302,20 @@
     logoURL: ['https://coinlist.animeswap.org/icons/ALI.svg'],
     projectURL: 'https://twitter.com/AlpacaINU',
   },
+  {
+    address: '0x14b0ef0ec69f346bea3dfa0c5a8c3942fb05c08760059948f9f24c02cd0d4fd8::mover_token::Mover',
+    decimals: 8,
+    symbol: 'MOVER',
+    name: 'Mover',
+    logoURL: ['https://coinlist.animeswap.org/icons/MOVER.svg'],
+    projectURL: 'https://mov3r.xyz/',
+  },
+  {
+    address: '0x4def3d3dee27308886f0a3611dd161ce34f977a9a5de4e80b237225923492a2a::coin::T',
+    decimals: 8,
+    symbol: 'GARI',
+    name: 'Gari',
+    logoURL: ['https://coinlist.animeswap.org/icons/GARI.svg'],
+    projectURL: 'https://gari.network',
+  },
 ]
