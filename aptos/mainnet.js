@@ -318,4 +318,12 @@
     logoURL: ['https://coinlist.animeswap.org/icons/GARI.svg'],
     projectURL: 'https://gari.network',
   },
+  {
+    address: '0xd6d6372c8bde72a7ab825c00b9edd35e643fb94a61c55d9d94a9db3010098548::USDC::Coin',
+    decimals: 6,
+    symbol: 'mUSDC',
+    name: 'USD Coin (Multichain)',
+    logoURL: ['https://coinlist.animeswap.org/icons/GARI.svg'],
+    projectURL: 'https://gari.network',
+  },
 ]
