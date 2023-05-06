@@ -95,4 +95,12 @@
     logoURL: ['https://coinlist.animeswap.org/icons/CELO.png'],
     projectURL: 'https://www.portalbridge.com/sui',
   },
+  {
+    address: '0x027792d9fed7f9844eb4839566001bb6f6cb4804f66aa2da6fe1ee242d896881::coin::COIN',
+    decimals: 9,
+    symbol: 'MOVE',
+    name: 'MOVE',
+    logoURL: ['https://coinlist.animeswap.org/icons/MOVE.svg'],
+    projectURL: 'https://dex.bluemove.net/',
+  },
 ]
